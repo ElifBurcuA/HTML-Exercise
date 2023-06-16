@@ -1,2 +1,2 @@
 # HTML-Exercise
-<p> Development of Homepage, About Us and Contact pages using HTML. </p>
+<p> Development of *Homepage*, *About Us* and *Contact* pages using <em>HTML</em>. </p>
